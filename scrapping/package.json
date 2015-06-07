@@ -1,0 +1,28 @@
+{
+  "name": "comparadordePrecios",
+  "version": "0.0.1",
+  "description": "Compara precios en China",
+  "main": "server.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cristiancs/comparadordePrecios.git"
+  },
+  "keywords": [
+    "pricing"
+  ],
+  "author": "Cristian Navarrete, Nicolas Sinisterra",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/cristiancs/comparadordePrecios/issues"
+  },
+  "homepage": "https://github.com/cristiancs/comparadordePrecios",
+  "dependencies":{
+    "mysql": "*",
+    "request": "*",
+    "cheerio": "*"
+
+  }
+}
