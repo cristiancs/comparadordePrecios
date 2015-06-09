@@ -4,7 +4,7 @@
   "description": "Compara precios en China",
   "main": "server.js",
   "scripts": {
-    "test": ""
+    "test": "node server.js"
   },
   "repository": {
     "type": "git",
